@@ -1,0 +1,13 @@
+# MATLAB / Simulink temporary and auto-generated files
+slprj/
+*.slxc
+*.autosave
+*.original
+*.asv
+
+# macOS metadata
+.DS_Store
+*/.DS_Store
+
+# MATLAB MCP Core Server
+matlab-mcp-core-server/
